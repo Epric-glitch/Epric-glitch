@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric Huang</h1>
 <h3 align="center">I enjoy building interactive experiences through code and creating detailed 3D models. I like combining technical skills with creativity to bring ideas to life.</h3>
 
-- 🔭 I’m currently working on [MyFriendBarrington](https://github.com/aaronmauro/myfriendbarrington.git)
+- 🔭 As part of the 2026 Level Up program, I worked with Tough Cookie as a Lead Programmer and 3D modeler [MyFriendBarrington](https://github.com/aaronmauro/myfriendbarrington.git)
 
 - 🌱 I’m currently learning **Unity and Blender**
 
